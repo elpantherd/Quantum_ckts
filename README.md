@@ -56,7 +56,7 @@ The final section is a deep dive into the theory and implementation of quantum e
 
 1.  Clone the repository:
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/elpantherd/Quantum_ckts.git
     ```
 2.  Navigate to the directory and set up a Python virtual environment.
 3.  Install the required dependencies:
